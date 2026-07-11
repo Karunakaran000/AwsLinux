@@ -437,5 +437,3 @@ Description: Kernel messages.
 13. Monitor CloudWatch metrics and logs.
 14. Confirm health checks (ALB/Target Group).
 15. Escalate only after collecting evidence (logs, metrics, timestamps).
-
-===============================================================================
